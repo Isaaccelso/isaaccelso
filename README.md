@@ -4,7 +4,7 @@
 🔹 I'm a backend developer starting my career.<br>
 🔹 I am currently graduated as a Logistics Technician by ETEC-SP.<br>
 🔹 Currently I work outside the IT area, as a Tax Assistant in a supermarket chain.<br>
-🔹 Since Nov/22 I've been focused on learning back-end development to migrate to the IT area.<br>
+🔹 Since Dez/22 I've been focused on learning back-end development to migrate to the IT area.<br>
 
 
 ## Contact
